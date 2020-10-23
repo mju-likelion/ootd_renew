@@ -1,0 +1,1 @@
+web: gunicorn ootd_renewal.wsgi --log-file -
